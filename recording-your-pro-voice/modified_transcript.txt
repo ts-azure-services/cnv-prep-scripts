@@ -1,0 +1,298 @@
+1	Yes, I have a lot of furniture and a lot of books.
+2	Oh right. I completely forgot that. Then it is probably no problem. How old are you again?
+3	So I can bring a couch and a washing machine.
+4	Yes, balloons are enough. People come to celebrate and not to eat.
+5	I did not think about that. How do we have to pay the rent?
+6	No, I do not like that, because sometimes I'm not at home.
+7	Yes, there are mosques in Indonesia. It is a Muslim country.
+8	The kitchen is very small. But we can eat in the summer on the balcony and in the winter in the living room.
+9	How did you forget that? That's really great and fantastic.
+10	I asked the landlord again and he said that we always have to transfer at the beginning of the month.
+11	I'm not saying anything. I'm just overwhelmed. What more can I say?
+12	That does not sound so good. So the others have no say.
+13	Why are you inviting them? I will not come. That can not be.
+14	Yes, the price is too expensive. I am still a student and I do not even work.
+15	What do we need a console for?
+16	You say that you are rich and then you say that you do not want to draw the attention to yourself.
+17	We need a hiding place. Do you know any?
+18	Yes, they are also available in black and yellow.
+19	How many square meters does the kitchen have? I have to know that.
+20	I think we only need a wardrobe and a mirror. Lena wants to get the things.
+21	I love the food in Indonesia.
+22	You will now promise me that you will not come, otherwise you can go to Dubai alone.
+23	Yes, I think so too. I have never been there.
+24	But I can not change it anymore. I am really sorry.
+25	Of course, they are very important. I will get the rest. Lena does almost nothing.
+26	How long is the lesson? As you know, I am a medical student and will soon have my first exam.
+27	No, that was just too shallow. I thought it was true.
+28	I think your suggestion is great. You are really creative.
+29	I would like to go to a mosque and to the beach. I want to eat a lot.
+30	If you want I can also cook every Friday, Saturday and Sunday.
+31	Okay, I agree with that. Is there anything left to discuss?
+32	So I still have five pots and a kettle. Do you have glasses and knives?
+33	I want to go there, too. Lisa lives there now, right?
+34	The kitchen is 15 square meters. That's okay.
+35	Under the mat in front of the door? Do you agree?
+36	Then we will not go to Australia. What was the logic behind it?
+37	We can also invite Nirvana to sing for us.
+38	He has a lot of companies and is working in the field of cars.
+39	The hall is half an hour away from us. The boat is a better idea.
+40	No, you know that Lena is a rock fan. You have to rent it in black.
+41	Now I'm relieved. Do you have a bike?
+42	The flight lasts 12 hours.
+43	The apartment has three rooms, the house would be enough for us.
+44	Yes, should I get the cleaning products?
+45	Yes, I always get holidays. I love holidays.
+46	Then he probably had an important conversation. That's all possible.
+47	I will not do that. Tell me what you want to see in Dubai.
+48	Where is the hall? I thought about celebrating it on a boat.
+49	I did a lot of research and my dad worked there as well.
+50	I'm not sure. In which city do you live? I've forgotten it.
+51	I was in the desert and I saw a lot of stars and it was very cold. You have to go there, too.
+52	No, our neighbors would not agree with that.
+53	No, of course I do not have a bike. Why do you ask?
+54	In my opinion, we also need black cutlery.
+55	Would a small closet for our utensils fit?
+56	We want to move after two weeks.
+57	Then buy a white and black door.
+58	No, he is even cleaner and more hygienic than me. He makes himself clean.
+59	Do you agree with what I just wrote?
+60	I think we should buy black balloons.
+61	What would it be, for example?
+62	Were you in Turkey? I want to go there.
+63	I think the idea is great. Who pays for the helicopter?
+64	Then you're still under 18 and you'll have to ask your parents if you're allowed to come with us.
+65	Which country do you want to travel to? That would be interesting.
+66	I would take cheese skewers and small snacks.
+67	Lena has more furniture than you. Is it okay for you to put her posters in your room?
+68	I do not believe that now. You have to explain it to me.
+69	Then you can not come. Honestly, I do not feel like it anymore.
+70	Yes, her mother will sew it for us. Which color do you want?
+71	Do we want to demonstrate against it? So that we may wear short pants.
+72	Yes, I would be very happy about that. That's a real talent.
+73	Yes, that's okay. I'm really looking forward to it. Have you already moved?
+74	Yes, I'm a bit forgetful. Where do we get moving boxes?
+75	What color does the front door have and does the apartment have underfloor heating?
+76	I do not know when and where I want to spend it.
+77	You just have too many prejudices. You have not broadened your horizons.
+78	I've never been to Indonesia. Let's fly to Indonesia.
+79	Why do you know so much about the family? That surprises me.
+80	But I want to fly in the morning.
+81	That's good. What time do we want to start? I still have a good idea.
+82	How did you settle it with the registration office? Did you just go there?
+83	I'm proud of you that you can handle your forgetfulness.
+84	So my dear have you ever heard of a university? I am just in my last year.
+85	How many times do I have to tell you? We will do it systematically. Can you please answer my question?
+86	They are punks. What can you do with the family? I'd be very interested in that.
+87	That's not a problem. You get everything you want. Do not worry.
+88	Lena is afraid of cats. But I can talk to her if you want that.
+89	Yes, tell me. How was it there?
+90	Everyone can go shopping for a week. I go in the first week.
+91	How do we want to do that with the other rooms? We can alternate every week.
+92	I almost died once because I forgot to breathe when I was in the water.
+93	That's good. I also live in Hamburg. How tall is the house?
+94	I would choose rock music.
+95	Of course they drink alcohol and they eat everything.
+96	So Lena will bring a TV. What do you want to bring?
+97	Yes, he has influenced her negatively. I can not believe it either.
+98	We clean up here and then we move in.
+99	Those who want to stay overnight must pay. Then we would not have any problems.
+100	I think there is a dishwasher in the apartment. Shall I ask?
+101	Yes, black make-up must not be missing. How should the decorations look?
+102	Yes, that would work. How many cats do you have?
+103	Yes, I agree. Is that okay for Lisa to move in with you?
+104	I do not have to accept anything. Dubai is not a free country.
+105	Please stay calm. We are not done with the kitchen yet. Do we want to place the dining table in the kitchen?
+106	I will take clothes and toiletries with me.
+107	Really? I also wanted to go there two years ago.
+108	How many places are in the helicopter?
+109	I also love the food in Indonesia. There you are not alone.
+110	No, I will not move in this way. That's too risky for me.
+111	That's too much work. In addition, Lena and I have no desire.
+112	I think we should divide the sum by three and then everyone can pay a part.
+113	I almost died. I was also in the Opera House.
+114	I mean the door should be black and white. You should not buy two doors.
+115	Lena can cook Wednesday and Thursday. I'm just cooking for three days.
+116	We have to tell everyone that they have to bring a present.
+117	My dad says we will fly around 6:00 pm.
+118	it's a good idea. Will you bring me?
+119	I was there for four months. It was a great time.
+120	No, there is still a lot missing. What is our address? We still have to change it.
+121	I know Dubai very well, although I've never been there.
+122	No, we are rich and we have the pillows with us. It is a first-class helicopter.
+123	How long does the flight actually take?
+124	No, I do not like that, because otherwise everything is black.
+125	That's terrible. I want to color it white. Would it be okay for you?
+126	I still have a kettle and toaster. I can also get a fridge. What can you get?
+127	I like that. Now we have everything planned. How much is the rent?
+128	Of course I'm serious. Please count them down, otherwise I will not go with them anymore.
+129	I think that's great. Finally she does something too. I hope I will get along with you.
+130	We have everything planned now. The problem is how we will transport everything.
+131	That's very interesting. I love it.
+132	But they drink alcohol and what would they eat?
+133	That's not our topic now. Where were you last summer?
+134	Then we keep the cat away from her. That should work.
+135	I mean on the wall. He does not want holes to be in the wall later.
+136	I was in Germany. I have not done anything interesting.
+137	Do you want to draw attention now? For me, it does not matter.
+138	Yes, but let's make it another day when we clean the whole house.
+139	Okay, but I want the furniture in the living room to be yellow and dark blue.
+140	The landlord does not want us to hang something on the wall.
+141	I do not want to paint all the walls. My room should not be dyed.
+142	Lena, just told me that she can also bring a TV.
+143	I like that. Most animals are dirty.
+144	I would like to take over the kitchen service.
+145	Lena wants to vacuum and wipe. We have already clarified the services.
+146	No, I remembered that my father has a moving company. He can do that.
+147	Should everyone dress the same? I think that's a very good idea.
+148	We could spend the night on the boat, too.
+149	I hope so. I'm looking forward to. That has always been my dream.
+150	I do not have a fridge either. Let's make a plan who has to buy or take something.
+151	Who does not love holidays? Since I am the boss, I can plan my vacation myself.
+152	I would like to go to New Zealand. I am very fascinated.
+153	Yes, that would be good. What color is the kitchen?
+154	Yes, that would be a suggestion. It's better than nothing.
+155	After two months we have holidays again.
+156	I live in Hamburg. I will move to an apartment with Lena.
+157	You do not have to say anything anymore. How many bottles of cola should I get?
+158	I spontaneously came up with something. We can fly with my helicopter. Then we do not have to pay for airline tickets.
+159	Yes, but only two days. There was a lot of fun. In Sydney it is very expensive.
+160	I'm 25. What time are we flying?
+161	I have a Persian cat. His name is Tom.
+162	Should we make black make-up?
+163	You will cook Monday and Tuesday. Do you agree?
+164	Okay, that's good. Then it is cheap.
+165	When do we want to do it? The university will start in three weeks.
+166	Then please search for cheap hotels. Why is Lena coming?
+167	But you have to take your fridge, because we both have no fridge. It's okay for Lena.
+168	Yes, he was on his smartphone?
+169	What will you take with you for Dubai?
+170	Will you fly back to America?
+171	It may be that he did not see you. At the moment he might be busy.
+172	Lena wants to buy a curtain. She also has a container for toothpaste and toothbrushes.
+173	That's not serious, right? I can not list all.
+174	I learned to surf in Australia. Everything is possible there too.
+175	That's great. If you want, I can get the curtains.
+176	Were you in Sydney, too?
+177	Why? I can go on vacation anywhere. Can you swim there as a woman?
+178	We have three bedrooms. Everyone gets their own bedroom.
+179	Yes, you are right. How do we want to do that?
+180	Then it is like this. When did we want to move again? I've forgotten it.
+181	But I'm afraid of the family, because the family is a bit brutal.
+182	We will do that. For the kitchen we need first a fridge, an oven, a microwave and a toaster.
+183	No Lisa lives in Washington. We can go there too.
+184	I really want to go to Indonesia. There is also Bali.
+185	No, but I do not think it's alright that the apartment has no front door. I will buy one.
+186	Great, but I want to fly in the evening.
+187	That's not a serious question, is it? I also live in Germany.
+188	You do not know them personally and it has to be an American star.
+189	I have a few questions about that. Where do you want to put the piano?
+190	I also want to go to Australia. I saw kangaroos there.
+191	Have we already clarified everything? Do you have another question?
+192	I think that's better, too. It looks happier.
+193	Lena likes all very much. We have to endure that for Lena. We are her best friends.
+194	Did you live in a palace at your parents' house?
+195	But you have to. If you do not agree, you can fly alone.
+196	When do we want to meet for cleaning? Please tell Lena too. And what if someone breaks in?
+197	Should we buy some food?
+198	I had a teacher who taught me that.
+199	Yes, I agree. Everyone should iron their clothes.
+200	That was a flat joke. You probably had to laugh. It was funny.
+201	Does she have any illnesses? I am very sensitive.
+202	That's good, otherwise we would have to pay for the bike rack.
+203	Yes, I live in Germany. Where do you actually live?
+204	Do you have many clothes and lots of furniture?
+205	No, my dad can not fly in the evening. In the summer it is dangerous.
+206	I was in Sudan with my dad. There we met Tom.
+207	You should not go to Dubai for a holiday.
+208	I had pasta for dinner. We can do the same together in the summer.
+209	That sounds interesting. Should I tell you where I was? You will not believe it.
+210	Why? Do not tell me that you find the price too expensive.
+211	But I know Helene Fischer, she will invite me too.
+212	20 people fit in the boat. I think that's a good bargain.
+213	We are very good friends with Sophie and Julia. They are both really nice and good.
+214	I would like to put it in the living room.
+215	I will give a student piano lessons every Thursday, would that be a problem for you?
+216	No, I have never been to Turkey. I'm not interested in that either.
+217	Yes, honestly I'm still thinking. Maybe I will fly there in the winter.
+218	Hello, Lena has her birthday on Monday. We still have to plan everything.
+219	Nothing, because it is a short trip. We would return in a week.
+220	I like that. That's fair for everyone.
+221	We can maybe rent a truck.
+222	That would be an option too. Can you please answer my previous question?
+223	Thanks, that's me too. Do we want to paint all the walls?
+224	No, is it a punk family? How many people are there?
+225	I also hope that you will get along. I think we will understand each other very well.
+226	Get 30 boxes of Coke and Fanta. That would be enough.
+227	Is there a mosque there?
+228	We do not do that. Do not worry. We still have to think about the hallway.
+229	Steffi, I'm really sorry about that.
+230	Yes, I will stay next to you every day, otherwise you will not come with me.
+231	You also have to teach me. What did you have to eat in Australia?
+232	I love Muslim countries. Turkey is also very interesting.
+233	Are you serious? What are you studying anyway? I have to know that now.
+234	Yeah, do we want to dye them white too? So that it does not get boring, we could later plant herbs in the kitchen.
+235	But I do not want to fly with your father. He always asks for my grades.
+236	It will be great if we have three girls living together. No, we have not moved yet.
+237	Should I take something to eat?
+238	Hello, would you like to move into an apartment with us?
+239	Your father has a moving company.
+240	The living room is actually very big. I think it has 20 square meters. We will spend very little time there anyway.
+241	No, I do not have a car. Please ask Lena. Maybe she has one.
+242	But that is against human dignity. I can not say yes to that.
+243	That's my own helicopter. I do not have to pay anything for that. My dad is a pilot and he can get us there quickly.
+244	We are of the same opinion. Actually, Lena has only punk friends, right? Then we would not set a dress code.
+245	Just buy what you want. I want you to stop bitching now.
+246	No, I got an invitation from Dwayne Johnson. You can not get in there. I'm sorry.
+247	I think we do not need a microwave.
+248	Yes, but not more. That is very small. Should I buy the cabinet?
+249	You did not answer my question. I am for a rock and punk concept.
+250	Yes, you are right. She only has punk friends.
+251	I was in Chicago. I was also in the prison where Prison Break was filmed.
+252	No, but if you forget your key, what happens?
+253	They know a lot about cars. We can talk about cars and organize a car show.
+254	I do not want Tom to make the apartment dirty.
+255	That's really great. Our bathroom is very small and there is no window. Is it a problem for you?
+256	Yes, you are right. At the moment I can not think anymore. I'm so sorry.
+257	We should keep the decoration as simple as possible. I honestly have no desire to spend a lot of money. I think balloons are enough.
+258	No, Lena only has contact with the family. She even likes the family more than her own family.
+259	Yes, that's a good idea. Who will shop? Do we want to introduce a service for this?
+260	I have been to Turkey before. It is very nice there.
+261	Can women also eat and drink or talk to people? You know it well.
+262	Could you maybe do it in the balcony? I would be grateful for that.
+263	Because she's my best friend. Do you have a problem with her?
+264	I like that. Now we can start from the kitchen. What do we need for the kitchen?
+265	Can you walk around with a pair of shorts?
+266	I did not know that. I also want to go to Turkey.
+267	I met Tim. This is the twin brother of Tom. He had not seen me.
+268	But you do not stay next to us every day.
+269	Are you alright? Please be reasonable.
+270	That's too dangerous. I would like to get to know the family better. Tell more about.
+271	Yes, Nirvana can sing very well. Can you contact her please?
+272	You say that yourself. I'm sorry. But I'm richer and I'm not saying that.
+273	No, I will buy a dark blue. I can decide it.
+274	Oh right. Look, I forgot it again. What a shame.
+275	Yes, I would like to know where you were.
+276	We will discuss that later. Can Lena please get the curtains?
+277	I have a question. Do not you live in Germany?
+278	We want to move in after three days. Do you agree?
+279	Lena will get a bucket and three sponges.
+280	That's just awful. I am already curious. How did Lena get to know them?
+281	You can also fly to America in the spring. I was there in spring too.
+282	Yes, I think so, too. We can also use something blue.
+283	Oh, how long have you been there?
+284	No, that's 20 minutes away, but we can go by train.
+285	You are right. I find it unnecessary for the guests to bring food.
+286	How do we divide up the rooms? I want to have the big room.
+287	I totally understand your situation.
+288	It is probably a very successful family. I would not have thought that.
+289	Okay, we can plan that again. But I can not promise.
+290	Yes, you are right. What do we want to do with the family?
+291	I do not have a car. Do you have a car?
+292	I do not think so. Are you lying?
+293	Is the landlord stupid? Should everyone watch us or what?
+294	That's great and I was on the red carpet in Hollywood.
+295	Our pizza is on the way!
+296	Yes, that was only for a short time. I wanted to try something new.
+297	We can start at eight o'clock. What is your idea?
+298	Why didn't you come today?
